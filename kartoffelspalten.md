@@ -3,16 +3,21 @@ Ob du die Kartoffelspalten mit oder ohne Schale zubereitest, ist Geschmackssache
 Das Würzöl haben wir in diesem Rezept mit Rosmarin und Paprika aromatisiert,
 aber auch hier kannst du nach Belieben variieren.
 
-    Zutaten für 4 Personen:
+### Zutaten für 4 Personen:
 
-    2 Zweige Rosmarin
-    4 EL Olivenöl
-    1 TL Meersalz
-    1 TL Edelsüß-Paprika
-    1 kg Kartoffeln (vorwiegend festkochend)
-
+    Rosmarin
+        2 Zweige oder
+        1 gehäufter TL
+    Olivenöl
+        4 EL
+    Meersalz
+        1 TL
+    Edelsüß-Paprika
+        1 TL
+    Kartoffeln (vorwiegend festkochend)
+        1 KG
  
-### Schritt 1:
+ ### Schritt 1:
 
 * Ofen vorheizen (E-Herd: 200 °C/Umluft: 175 °C/Gas: Stufe 3).
 * Für das Würzöl Rosmarin waschen und trocken tupfen.
