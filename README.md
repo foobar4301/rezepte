@@ -1,2 +1,2 @@
 # Rezepte
-Rezepte für den Freizeitkoch
+Rezepte für den Freizeitkoch.
