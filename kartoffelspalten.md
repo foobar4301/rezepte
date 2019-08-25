@@ -6,8 +6,8 @@ aber auch hier kannst du nach Belieben variieren.
 ### Zutaten für 4 Personen:
 
     Rosmarin
-        2 Zweige oder
-        1 gehäufter TL
+        2 Zweige frischer oder
+        1 gehäufter TL getrockneter
     Olivenöl
         4 EL
     Meersalz
