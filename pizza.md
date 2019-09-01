@@ -68,8 +68,8 @@ Mit Trockenhefe
 
 Folgende Reihenfolge hat sich als praxistauglich erwiesen:
 
-* zuerst Tomatensoße.
-* dann geriebener Parmesankäse, um das Durchweichen des Teiges zu bremsen.
+* zuerst geriebener Parmesankäse, um das Durchweichen des Teiges zu bremsen.
+* dann Tomatensoße (passierte Tomaten).
 * dann die Würzzutaten (Meersalz,Kräuter).
 * dann geriebener Mozerella oder anderer geeigneter Käse.
 * danach die sonstigen Zutaten.
