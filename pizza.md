@@ -59,8 +59,9 @@ Mit Trockenhefe
 
 * Arbeitsfläche leicht mehlen.
 * Teig teilen und zu zwei runden Klößen formen.
-* Mit einem gemehlten Nudelholz jeweils zu einem Rechteck ausrollen.
+* Mit einem gemehlten Nudelholz die Klöße jeweils zu einem Rechteck ausrollen.
 * Den Teig auf das Backblech geben und den Rand von Hand an die Größe angleichen.
+* Mit einer Gabel den Teig großzügig perforieren. So wird beim Backen die Bildung großer Blasen vermieden.
 
 ### Schritt 7:
 
