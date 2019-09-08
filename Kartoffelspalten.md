@@ -1,3 +1,5 @@
+# Kartoffelspalten
+
 Für die Kartoffelspalten verwendest du am besten vorwiegend festkochende Kartoffeln.
 Ob du die Kartoffelspalten mit oder ohne Schale zubereitest, ist Geschmackssache.
 Das Würzöl haben wir in diesem Rezept mit Rosmarin und Paprika aromatisiert,
@@ -14,8 +16,8 @@ aber auch hier kannst du nach Belieben variieren.
         1 TL
     Edelsüß-Paprika
         1 TL
-    Kartoffeln (vorwiegend festkochend)
-        1 KG
+    Kartoffeln
+        1 KG vorwiegend festkochend
  
  ### Schritt 1:
 
