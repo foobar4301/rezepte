@@ -48,6 +48,7 @@ Vor der Zubereitung des Brotteiges, wird neuer Sauerteig bevorratet. Die Vorhalt
 * Bis Sauerteig aktiv bei Zimmertemperatur in geschlossenem Glas lagern.
 * Aktivität kann durch Rühren begünstigt werden.
 * Aktivität ist an durch das Glas sichtbare Gasblasenbildung erkennbar.
+* Sobald Sauerteig aktiv ist, kann er im Kühlschrank gelagert werden.
 
 Die Zutaten des ersten Tages in einer großen Schüssel zusammenmischen. Danach die Schüssel abdecken und bei Zimmertemperatur (22°C) gehen lassen.
 
