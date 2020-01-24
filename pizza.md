@@ -11,61 +11,69 @@
     Olivenöl
         2 EL
     Hefe
-        1/2 Packung = 13,5 Gramm frische oder
-        1 Packung = 7-9 Gramm Trockenhefe
+        1/2 Packung (für 500 Gramm Mehl) frische oder
+        1   Packung (für 500 Gramm Mehl) Trockenhefe
     Zucker
         2 TL
-    Lauwarmes Wasser (37°C)
+    Warmes Wasser (39°C)
         270 ML
  
-### Schritt 1:
+### Modul 1
  
-* Das Mehl in eine Schüssel geben.
-* Das Meersalz hinzugeben und vermischen.
-* Eine kleine Mulde in das Mehl drücken.
-* Das Olivenöl in die Mulde geben.
+* Mehl in eine Schüssel geben.
+* Meersalz hinzugeben und vermischen.
+* Mulde in das Mehl drücken.
 
-### Schritt 2:
+### Modul 2
 
 Mit frischer Hefe
-* Die Hefe in eine große Tasse zerbröseln.
-* Den Zucker hinzugeben.
-* Mit den Fingern kneten, bis sich die Hefe aufgelöst hat.
-* Das lauwarme Wasser hinzugeben und leicht umrühren.
+* Frische Hefe in eine große Tasse zerbröseln.
+* Zucker hinzugeben.
+* Mit Fingern kneten, bis sich die Hefe aufgelöst hat.
+* Das warme Wasser hinzugeben und leicht umrühren.
 
 Mit Trockenhefe
-* Das lauwarme Wsser in eine große Tasse geben.
-* Den Zucker unterrühren.
-* Die Hefe in kleinen Portionen unterrühren.
+* Das warme Wasser in eine große Tasse geben.
+* Zucker unterrühren.
+* Trockenhefe in kleinen Portionen unterrühren.
 
-### Schritt 3:
+### Modul 3
 
-* Den Hefesud in die Mulde geben.
+* Olivenöl in die Mulde geben.
+* Hefesud in die Mulde geben.
 * Das Gemisch mit der Hand in der Schüssel zu einem Teig verkneten, bis sich der Teig abgelöst hat.
-* Auf der leicht gemehlten Arbeitsplatte weiterkneten.
-* Dieser erste Knetprozess dauert insgesamt ca. 2 Minuten.
+* Auf leicht gemehlter Arbeitsplatte weiterkneten.
+* Knetprozess dauert insgesamt ca. 3 Minuten.
+* Hefeteig in die leicht gemehlte Schüssel zurücklegen.
+* Schüssel mit Tuch abdecken.
 
-### Schritt 4:
+### Modul 4
 
-* Den Hefeteig in die Schüssel zurücklegen und abdecken.
-* Den Backofen vorheizen (E-Herd: 230°C/Umluft: 210°C).
-* Zutaten zum Belegen der Piza vorbereiten.
-
-### Schritt 5:
-
-* Nachdem der Teig ca. 7 Minuten gegangen ist, nochmals kurz durchkneten.
-* Danach nochmals 4 Minuten in der Schüssel entspannen lassen.
-* Backbleche mit Ölivenöl großzügig (lückenlos) einreiben.
-
-### Schritt 6:
-
+* Backofen einschalten (E-Herd: 230°C/Umluft: 210°C).
+* Zutaten zum Belegen der Pizza putzen und schneiden.
+* Zutaten in kleinen Schüsseln vorhalten.
+* Backblech(e) leicht mit Olivenöl einreiben.
 * Arbeitsfläche leicht mehlen.
-* Teig teilen und zu zwei runden Klößen formen.
-* Mit einem gemehlten Nudelholz die Klöße jeweils zu einem Rechteck ausrollen.
-* Den Teig auf das Backblech geben und den Rand von Hand an die Größe angleichen.
-* Mit einer Gabel den Teig großzügig perforieren. So wird beim Backen die Bildung großer Blasen vermieden.
 
-### Schritt 7:
+### Modul 5
+
+* Nachdem der Teig zehn Minuten geruht hat:
+* Teig teilen und jeweils 20 Sekunden kneten.
+* Zwei Klöße formen.
+* Arbeitsfläche leicht mehlen.
+* Klöße auf Arbeitsfläche legen und mit Tuch abdecken.
+
+
+### Modul 6:
+
+* Nachdem der Teig weitere fünf Minuten geruht hat, die Klöße folgendermaßen verarbeiten:
+* Oben über Kreuz einschneiden.
+* Die entstehenden Ecken zur Seite ziehen, sodass sich ein Quadrat ergibt
+* Mit bemehltem Nudelholz den Teig zu einem Rechteck ausrollen.
+* Teig auf das Backblech geben und den Rand von Hand an die Größe angleichen.
+* Mit einer Gabel den Teig großzügig perforieren (beim Backen die Bildung großer Blasen vermeiden).
+
+### Modul 7:
 
 * Pizzas nach eigenem Belieben belegen.
 
@@ -73,15 +81,23 @@ Folgende Reihenfolge hat sich als praxistauglich erwiesen:
 
 * zuerst geriebener Parmesankäse, um das Durchweichen des Teiges zu bremsen.
 * dann Tomatensoße (passierte Tomaten).
-* dann die Würzzutaten (Meersalz,Kräuter).
-* dann geriebener Mozerella oder anderer geeigneter Käse.
+* dann die Würzzutaten (Meersalz, Kräuter).
+* dann gehobelter oder geriebener Parmesankäse.
 * danach die sonstigen Zutaten.
 
-### Schritt 8:
+### Modul 8:
+
+* Pizza in die untere Schiene geben.
+* Wenn Rand leicht angebräunt ist, Pizza in die zweite Schiene von oben verschieben.
+* Die Pizza ist fertig beim gewünschten Bräunegrad.
+* Das Durchbacken der Pizza dauert ca. 10-12 Minuten.
+* Bei langsam garenden Zutaten, sollte der Bräunvorgang auf mittlerer Schiene anstatt oben durchgeführt werden.
+
+Der zweite Teigkloß kann gut für den nächsten Tag im Kühlschrank aufbewahrt werden. Wenn beide Pizzas an einem Tag zubereitet werden, dann haben sich folgende Arbeitschritte bewährt:
 
 * Erste Pizza in die untere Schiene geben.
-* Wenn der Rand leicht angebräunt ist, die erste Piza in die zweite Schiene von oben verschieben.
+* Wenn der Rand leicht angebräunt ist, die erste Pizza in die zweite Schiene von oben verschieben.
 * Gleichzeitig die zweite Pizza in die untere Schiene geben.
 * Die Pizza ist fertig beim gewünschten Bräunegrad.
 * Das Durchbacken einer Pizza dauert ca. 10-12 Minuten.
-* Bei langsam garenden Zutaten, den Bräunvorgang auf mittlerer Schiene anstatt oben durchführen.
+* Bei langsam garenden Zutaten, sollte der Bräunvorgang auf mittlerer Schiene anstatt oben durchgeführt werden.
