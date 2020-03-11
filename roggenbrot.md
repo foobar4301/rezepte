@@ -58,26 +58,14 @@ Am nächsten Tag in etwa zur gleichen Uhrzeit die Zutaten des zweiten Tages zum 
 
 ### Backen
 
-Zwei antihaftbeschichtete Brotbackformen leicht mit Rapsöl einstreichen.
-
-Den Teig symetrisch teilen und in die Kastenformen einfüllen. Zur besseren Handhabe des klebrigen und zähen Teiges **die Hände mit Wasser benetzen**. Als Finish den Teig in den Formen oben glatt streichen.
-
-Brotteig mit Sieb und beliebigem Mehl bemehlen.
-
-Zeitnehmer auf 0:00 und Starten.
-
-Zeitpunkt 1:45 - Backofen vorheizen: **250°C Ober-/Unterhitze**.
-
-Zeitpunkt 1:58 - Brot(e) einschneiden oder belassen. Wenn das Brot nicht eingschnitten wird, dann platzt es beim Backen in der Regel auf.
-
-Zeitpunkt 2:00 - Brote auf der **unteren Schiene** in den Backofen.
-
-Zeitpunkt 2:02 - 1 Glas Wasser in die Bodenwanne des Backofens gießen (schwaden).
-
-Zeitpunkt 2:12 - Dampf ablassen und dabei die Temperatur auf 200°C verringern. Sobald der Ofen bei 200°C wieder nachheizt, den Ofen schließen.
-
-Zeitpunkt 2:40 - Brote aus der Kastenformen stürzen und auf einem Rost wieder in den Backofen schieben.
-
-Zeitpunkt 3:10 - Brote sind fertig gebacken und können aus dem Backofen entnommen werden.
-
-Bei Zimmertemperatur abkühlen lassen.
+1. Zwei antihaftbeschichtete Brotbackformen leicht mit Rapsöl einstreichen.
+1. Den Teig symetrisch teilen und in die Kastenformen einfüllen. Zur besseren Handhabe des klebrigen und zähen Teiges **die Hände mit Wasser benetzen**. Als Finish den Teig in den Formen oben glatt streichen.
+1. Brotteig mit Weizenmehl ca. 1mm dick bemehlen.
+1. Brotteig in den Formen zwei Stunden an einem warmen und zugfreien Ort gehen lassen.
+1. Backofen vorheizen: **250°C Ober-/Unterhitze**.
+1. Zeitpunkt **0:00** - Brote auf der **unteren Schiene** in den Backofen.
+1. Zeitpunkt **0:02** - 50 ml Wasser in die Bodenwanne des Backofens gießen (schwaden).
+1. Zeitpunkt **0:12** - Dampf ablassen und dabei die Temperatur auf 200°C verringern.
+1. Zeitpunkt **0:40** - Brote aus der Kastenformen stürzen und auf einem Rost wieder in den Backofen schieben.
+1. Zeitpunkt **1:10** - Brote sind fertig gebacken und können aus dem Backofen entnommen werden.
+1. Bei Zimmertemperatur abkühlen lassen.
