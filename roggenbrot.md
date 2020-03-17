@@ -1,71 +1,65 @@
-# Roggenbrot
+# Zwei Roggenmischbrote
 
-## Grundlage für Roggenmischbrote
-
-Die gesamte Zubereitung dauert 24 bis 28 Stunden.
+Für die Zubereitung zweier Roggenmischbrote
+sollten insgesamt mindestens 28 Stunden eingeplant werden.
 Die reale Arbeitszeit am Teig ist natürlich geringer.
-Sie beträgt - je nach Praxiserfahrung - 1 bis 1,5 Stunden inklusive Aufräumarbeiten.
-Die Zubereitung des Sauerteigs ist nicht Teil dieses Rezepts, es wird jedoch auf die Auffrischung des Sauerteigs eingegangen.
+Sie beträgt (je nach Praxiserfahrung)
+eine bis eineinhalb Stunden inklusive Aufräumarbeiten.
 
-### Zutaten für 2 Brote:
+Die Zubereitung eines _aktiven Sauerteigs_ ist nicht Teil dieses Rezepts,
+es wird jedoch davon ausgegangen, dass ein solcher in der angegebenen Menge
+vorrätig ist.
+(Die Zubereitung von Sauerteig wird in einem der nächsten Rezepte erklärt)
 
-    Alle Zutaten bis auf das Wasser haben Raumtemperatur.
+## 1. Tag: Vorteig herstellen
 
-    1. Tag:
-    
+Alle Zutaten bis auf das Wasser haben Raumtemperatur.
+
+Folgende Zutaten mit einem Rührgerät in einer großen Schüssel verrühren:
+
     Roggenmehl Vollkorn
-        640 Gramm
+        : 640 Gramm
     Wasser (50°C)
-        640 Milliliter
-    Sauerteig
-        64 Gramm
+        : 640 Milliliter
+    aktiver Sauerteig aus Roggenmehl Vollkorn
+        : 64 Gramm
 
-    2. Tag:
+Die Schüssel mit dem _Vorteig_ mit einem Deckel verschließen und
+an einem warmen Ort (23 °C) lagern. Zur Not kan auch ein großes Tuch als
+Abdeckung verwendet werden.
 
-    Roggenmehl (mind. 1150) oder
-    Dinkelmehl oder
-    Weizenmehl oder
-    Kartoffelmehl oder, oder
-        925 Gramm
+## 2. Tag (nach 24 Stunden): Brotteig fertigstellen
+
+Alle Zutaten bis auf das Wasser haben Raumtemperatur.
+
+Folgende Zutaten zum Vorteig hinzugeben:
+
     Wasser (45°C)
-        650 Milliliter
+        : 580 Milliliter
     Meersalz (fein)
-        45 Gramm
-    Hefe
-        Noch im Test (zur Zeit 10 Gramm)
-    Rapsöl
-        1 Kaffeelöffel
+        : 50 Gramm
+    Roggenvollkornmehl
+        oder Roggenmehl
+        oder Dinkelvollkornmehl
+        oder Dinkelmehl
+        oder Weizenmehl
+        oder Kartoffelmehl
+        oder, oder
+        : 825 Gramm
 
-### Teigzubereitung
+Die Zutaten mit der Hand in der Schüssel verkneten,
+bis ein konsistenter, sehr klebriger Teig entstanden ist (fünf Minuten).
 
-##### 1. Tag:
+## Backen
 
-Vor der Zubereitung des Brotteiges, wird neuer Sauerteig bevorratet. Die Vorhaltung eines aktiven Sauerteigs muss immer Prio eins haben. Die Lagerung geschieht in 500 Gramm-Gläsern:
-
-* Ein Teil "alter" Sauerteig fünf Teile Roggenmehl Vollkorn.
-* Fünf Teile Wasser 45°C
-* **Beispiel:** 10 Gramm Sauerteig, 50 Gramm VK-Roggenmehl, 50 Gramm Wasser 45°C
-* Bis Sauerteig aktiv bei Zimmertemperatur in geschlossenem Glas lagern.
-* Aktivität kann durch Rühren begünstigt werden.
-* Aktivität ist an durch das Glas sichtbare Gasblasenbildung erkennbar.
-* Sobald Sauerteig aktiv ist, kann er im Kühlschrank gelagert werden.
-
-Nach der Sicherung des Sauerteignachschubs die Zutaten des ersten Tages in einer großen Schüssel zusammenmischen. Danach die Schüssel abdecken und bei Zimmertemperatur (22°C) gehen lassen.
-
-##### 2. Tag:
-
-Am nächsten Tag in etwa zur gleichen Uhrzeit die Zutaten des zweiten Tages zum Vorteig hinzugeben und von Hand **acht Minuten** durchkneten.
-
-### Backen
-
-1. Zwei antihaftbeschichtete Brotbackformen leicht mit Rapsöl einstreichen.
-1. Den Teig symetrisch teilen und in die Kastenformen einfüllen. Zur besseren Handhabe des klebrigen und zähen Teiges **die Hände mit Wasser benetzen**. Als Finish den Teig in den Formen oben glatt streichen.
-1. Brotteig mit Weizenmehl ca. 1mm dick bemehlen.
-1. Brotteig in den Formen zwei Stunden an einem warmen und zugfreien Ort gehen lassen.
-1. Backofen vorheizen: **250°C Ober-/Unterhitze**.
-1. Zeitpunkt **0:00** - Brote auf der **unteren Schiene** in den Backofen.
+1. Zwei antihaftbeschichtete Brotbackformen leicht mit Pflanzenfett einstreichen.
+1. Den Teig symetrisch teilen und in die Kastenformen einfüllen. Zur besseren Handhabe des klebrigen und zähen Teiges _die Hände mit Wasser feucht halten_. Als Finish den Teig in den Formen oben glatt streichen.
+1. Brotteig mit Weizenmehl ca. 1 mm dick bemehlen.
+1. Brotteig in den Formen ca. zwei Stunden an einem warmen und zugfreien Ort gehen lassen. Der Teig ist genug gegangen, wenn er seitlich fast den Formenrand berührt.
+1. Backofen vorheizen: **240°C Ober-/Unterhitze**.
+1. Zeitpunkt **0:00** - Brotbackformen auf einem Rost auf der **unteren Schiene** in den Backofen.
 1. Zeitpunkt **0:02** - 50 ml Wasser in die Bodenwanne des Backofens gießen (schwaden).
 1. Zeitpunkt **0:12** - Dampf ablassen und dabei die Temperatur auf 200°C verringern.
-1. Zeitpunkt **0:40** - Brote aus der Kastenformen stürzen und auf einem Rost wieder in den Backofen schieben.
+1. Zeitpunkt **0:40** - Brote aus den Kastenformen stürzen und auf einem Rost wieder in den Backofen schieben.
 1. Zeitpunkt **1:10** - Brote sind fertig gebacken und können aus dem Backofen entnommen werden.
-1. Bei Zimmertemperatur abkühlen lassen.
+1. Bei Zimmertemperatur, von unten belüftet (auf einem Rost) abkühlen lassen.
