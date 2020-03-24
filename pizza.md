@@ -18,13 +18,13 @@
     Warmes Wasser (39°C)
         270 ML
 
-## Modul 1
+## Schritt 1
 
 * Mehl in eine Schüssel geben.
 * Meersalz hinzugeben und vermischen.
 * Mulde in das Mehl drücken.
 
-## Modul 2
+## Schritt 2
 
 Mit frischer Hefe
 
@@ -39,7 +39,7 @@ Mit Trockenhefe
 * Zucker unterrühren.
 * Trockenhefe in kleinen Portionen unterrühren.
 
-## Modul 3
+## Schritt 3
 
 * Olivenöl in die Mulde geben.
 * Hefesud in die Mulde geben.
@@ -49,7 +49,7 @@ Mit Trockenhefe
 * Hefeteig in die leicht gemehlte Schüssel zurücklegen.
 * Schüssel mit Tuch abdecken.
 
-## Modul 4
+## Schritt 4
 
 * Backofen einschalten (E-Herd: 230°C/Umluft: 210°C).
 * Zutaten zum Belegen der Pizza putzen und schneiden.
@@ -57,7 +57,7 @@ Mit Trockenhefe
 * Backblech(e) leicht mit Olivenöl einreiben.
 * Arbeitsfläche leicht mehlen.
 
-## Modul 5
+## Schritt 5
 
 * Nachdem der Teig zehn Minuten geruht hat:
 * Teig teilen und jeweils 20 Sekunden kneten.
@@ -65,7 +65,7 @@ Mit Trockenhefe
 * Arbeitsfläche leicht mehlen.
 * Klöße auf Arbeitsfläche legen und mit Tuch abdecken.
 
-## Modul 6
+## Schritt 6
 
 * Nachdem der Teig weitere fünf Minuten geruht hat, die Klöße folgendermaßen verarbeiten:
 * Oben über Kreuz einschneiden.
@@ -74,7 +74,7 @@ Mit Trockenhefe
 * Teig auf das Backblech geben und den Rand von Hand an die Größe angleichen.
 * Mit einer Gabel den Teig großzügig perforieren (beim Backen die Bildung großer Blasen vermeiden).
 
-## Modul 7
+## Schritt 7
 
 * Pizzas nach eigenem Belieben belegen.
 
@@ -86,7 +86,7 @@ Folgende Reihenfolge hat sich als praxistauglich erwiesen:
 * dann gehobelter oder geriebener Parmesankäse.
 * danach die sonstigen Zutaten.
 
-## Modul 8
+## Schritt 8
 
 * Pizza in die untere Schiene geben.
 * Wenn Rand leicht angebräunt ist, Pizza in die zweite Schiene von oben verschieben.
