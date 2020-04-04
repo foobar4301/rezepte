@@ -149,7 +149,7 @@ Je nach Aktivität des Teiges sind das umgerechnet zehn bis fünfzehn Minuten.
 Einstellungen am Backofen: **240°C Ober-/Unterhitze**.
 
 ## Backen
-Dauer: 1:10 Stunden  
+Dauer: 1:10 Stunden
 Arbeitszeit: 5 Minuten (besser länger - der Teig merkt es, wenn ihr ihm Aufmerksamkeit schenkt)
 
 1. Zeitpunkt **0:00** - Brotbackformen auf einem Rost auf der **unteren Schiene** in den Backofen.
