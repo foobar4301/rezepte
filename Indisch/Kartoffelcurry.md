@@ -34,6 +34,3 @@
 * frischen oder gefrorenen Korriander hinzugeben.
 * frischen Spinat hinzugeben.
 * Yoghurt hinzugeben.
-
-----
-[Dokument als PDF](https://gitprint.com/ingank/Rezepte/blob/master/Indisch/Kartoffelcurry.md)
