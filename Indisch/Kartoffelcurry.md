@@ -22,15 +22,11 @@
 * Senfsamen und Kreuzkümmelsamen anrösten, bis die ersten platzen.
 * Zwiebeln hinzugeben und glasig dünsten.
 * Geriebenen Ingwer und zerhakte Chillyschote hinzugeben.
-----
-* Zwei Minuten braten.
-----
+* __Zwei Minuten braten.__
 * Tomaten in der Hand zerdrücken und hinzugeben.
 * Kokosmilch hinzugeben.
 * Alle übrigen Zutaten bis auf die Kartoffeln hinzugeben.
-----
-* Aufkochen.
-----
+* __Aufkochen.__
 * Kartoffeln hinzugeben.
 * Kartoffeln gar köcheln.
 
