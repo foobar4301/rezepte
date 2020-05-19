@@ -172,7 +172,3 @@ Arbeitszeit: 5 Minuten (besser länger - der Teig merkt es, wenn ihr ihm Aufmerk
 1. Zeitpunkt **0:40** - Brote aus den Kastenformen stürzen und auf einem Rost wieder in den Backofen schieben.
 1. Zeitpunkt **1:10** - Brote sind fertig gebacken und können aus dem Backofen entnommen werden.
 1. Bei Zimmertemperatur, von unten __gut belüftet__ abkühlen lassen. Es hat sich bewährt, die Brote quer über die Ränder der Backformen zu legen.
-
-***
-
-[Dieses Dokument als PDF anschauen oder ausdrucken](https://gitprint.com/ingank/Rezepte/blob/master/Brot/Roggenvollkornbrot.md)
