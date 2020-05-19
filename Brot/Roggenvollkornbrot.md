@@ -12,7 +12,9 @@ Die Herstellung eines Brotes wird in in vier Stufen vollzogen:
 1. Herstellung des Backteiges
 1. Backen
 
-Diese Anleitung bezieht sich auf das Backen zweier Brote in kastenförmigen, antihftbeschichteten, zweilagigen Brotbackformen.
+Diese Anleitung bezieht sich auf das Backen zweier Brote in kastenförmigen,
+antihftbeschichteten,
+zweilagigen Brotbackformen.
 Dieser Brotteig eignet sich __nicht__ zum Backen von Laibern.
 
 ## Herstellung des Sauerteigs
@@ -20,30 +22,38 @@ Dieser Brotteig eignet sich __nicht__ zum Backen von Laibern.
 Dauer: 4 Tage (96 Stunden)
 Arbeitszeit: insgesamt ca. 12 Minuten
 
-Wenn wöchentlich Brot gebacken werden soll, dann muss der Sauerteig __nur einmal__ hergestellt werden. Wer einen aktiven Sauerteig besitzt, kann mit der Herstellung des Vorteigs fortfahren.
+Wenn wöchentlich Brot gebacken werden soll,
+dann muss der Sauerteig __nur einmal__ hergestellt werden.
+Wer einen aktiven Sauerteig besitzt,
+kann mit dem nächsten Kapitel,
+der Herstellung des Vorteigs,
+fortfahren.
 
 #### 1. Tag
 Zutaten:
-* 50 Milliliter Wasser 45°C
-* 50 Gramm Roggenvollkornmehl
+* 25 Milliliter Wasser 45°C
+* 25 Gramm Roggenvollkornmehl
 
-in einem großen Einweckglas verrühren. 24 Stunden verschlossen und raumwarm ruhen lassen.
+in einem großen Einweckglas verrühren.
+24 Stunden verschlossen und raumwarm ruhen lassen.
 
 #### 2. Tag
 Zutaten:
-* 50 Milliliter Wasser 45°C
-* 50 Gramm Roggenvollkornmehl
+* 25 Milliliter Wasser 45°C
+* 25 Gramm Roggenvollkornmehl
 * Teig vom Vortag
 
-in einem frischen Einweckglas verrühren. 24 Stunden verschlossen und raumwarm ruhen lassen.
+in einem frischen Einweckglas verrühren.
+24 Stunden verschlossen und raumwarm ruhen lassen.
 
 #### 3. Tag
 Zutaten:
-* 50 Milliliter Wasser 45°C
-* 50 Gramm Roggenvollkornmehl
+* 25 Milliliter Wasser 45°C
+* 25 Gramm Roggenvollkornmehl
 * Teig vom Vortag
 
-in einem frischen Einweckglas verrühren. 24 Stunden verschlossen und raumwarm ruhen lassen.
+in einem frischen Einweckglas verrühren.
+24 Stunden verschlossen und raumwarm ruhen lassen.
 
 #### 4. Tag
 Zutaten:
@@ -51,26 +61,30 @@ Zutaten:
 * 50 Gramm Roggenvollkornmehl
 * 25 Gramm des Teiges vom Vortag
 
-in einem frischen Einweckglas verrühren. 24 Stunden verschlossen und raumwarm ruhen lassen.
+in einem frischen Einweckglas verrühren.
+24 Stunden verschlossen und raumwarm ruhen lassen.
 
-Bevorratung von aktivem Sauerteig:
-* 50 Milliliter Wasser 45°C
+Der Rest des Teiges vom Vortag wird für die Sauerteigbevorratung herangezogen:
+* 50 Milliliter kühles Wasser 20°C
 * 50 Gramm Roggenvollkornmehl
 * Rest des Teiges vom Vortag
 
-in einem frischen Einweckglas verrühren. Diesen Teig sofort in den Kühlschrank verlagern.
+in einem frischen Einweckglas verrühren.
+Diesen Teig sofort in den Kühlschrank verlagern.
 
 #### Vorratshaltung von aktivem Sauerteig
 
-Der im Kühlschrank bevorratete Sauerteig hält sich ca. 10 Tage.
-Wenn sich Essig/Alkohol auf der Oberfläche absetzt,
+Der im Kühlschrank bevorratete Sauerteig hält sich ca. 7-9 Tage.
+Wenn sich in großen Mengen Essig/Alkohol auf der Oberfläche absetzt,
 ist er gestorben und muss neu angesetzt werden.
 
-Deshalb ist es notwendig, den Sauerteig in regelmäßigen Abständen (beispielweise alle sieben Tage) aufzufrischen. Dazu wird der alte Sauerteig mit frischem Mehl und Wasser gefüttert:
+Deshalb ist es notwendig,
+den Sauerteig in regelmäßigen Abständen (beispielweise alle sieben Tage) aufzufrischen.
+Dazu wird der alte Sauerteig mit frischem Mehl und Wasser gefüttert:
 
-* 50-150 Gramm des alten, kalten Sauerteigs
-* 50-100 Gramm Roggenvollkornmehl
-* Der Menge Roggenvollkornmehl entsprechenden Menge an Wasser.
+* 50-100 Gramm des alten, kalten Sauerteigs
+* 100-150 Gramm Roggenvollkornmehl
+* Der Menge Roggenvollkornmehl entsprechenden Menge an kühlem Wasser.
 
 Beachte: je kühler alle Prozesse gehalten werden, desto weniger aktiv ist der Sauerteig.
 Er hält sich aber dadurch länger und wird trotzdem _nicht_ inaktiv.
@@ -154,7 +168,7 @@ Arbeitszeit: 5 Minuten (besser länger - der Teig merkt es, wenn ihr ihm Aufmerk
 
 1. Zeitpunkt **0:00** - Brotbackformen auf einem Rost auf der **unteren Schiene** in den Backofen.
 1. Zeitpunkt **0:02** - 50 ml Wasser in die Bodenwanne des Backofens gießen (schwaden).
-1. Zeitpunkt **0:12** - Dampf ablassen und dabei die Temperatur auf 200°C verringern.
+1. Zeitpunkt **0:20** - Dampf ablassen und dabei die Temperatur auf 200°C verringern.
 1. Zeitpunkt **0:40** - Brote aus den Kastenformen stürzen und auf einem Rost wieder in den Backofen schieben.
 1. Zeitpunkt **1:10** - Brote sind fertig gebacken und können aus dem Backofen entnommen werden.
 1. Bei Zimmertemperatur, von unten __gut belüftet__ abkühlen lassen. Es hat sich bewährt, die Brote quer über die Ränder der Backformen zu legen.
