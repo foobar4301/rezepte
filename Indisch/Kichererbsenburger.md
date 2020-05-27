@@ -22,5 +22,6 @@
 
 ## Braten
 
-Masse esslöffelweise in eine mittelheiße, gut gefettete Pfanne geben.
-Die Masse jeweils zu Scheiben von ca. 1 cm Dicke breitdrücken und beidseitig duneklbraun braten.
+* Masse esslöffelweise in eine mittelheiße, gut gefettete Pfanne geben.  
+* Klöße mit einem Pfannenwender jeweils zu Scheiben von ca. 1 cm Dicke breitdrücken.
+* Scheiben beidseitig duneklbraun braten.
