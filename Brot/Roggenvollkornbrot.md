@@ -19,7 +19,7 @@ Dieser Brotteig eignet sich __nicht__ zum Backen von Laibern.
 
 ## Herstellung des Sauerteigs
 
-Dauer: 4 Tage (96 Stunden)
+Dauer: 4 Tage (96 Stunden)  
 Arbeitszeit: insgesamt ca. 12 Minuten
 
 Wenn wöchentlich Brot gebacken werden soll,
@@ -61,7 +61,7 @@ Zutaten:
 * 50 Gramm Roggenvollkornmehl
 * 25 Gramm des Teiges vom Vortag
 
-in einem frischen Einweckglas verrühren.
+in einem frischen Einweckglas verrühren.  
 24 Stunden verschlossen und raumwarm ruhen lassen.
 
 Der Rest des Teiges vom Vortag wird für die Sauerteigbevorratung herangezogen:
@@ -69,7 +69,7 @@ Der Rest des Teiges vom Vortag wird für die Sauerteigbevorratung herangezogen:
 * 50 Gramm Roggenvollkornmehl
 * Rest des Teiges vom Vortag
 
-in einem frischen Einweckglas verrühren.
+in einem frischen Einweckglas verrühren.  
 Diesen Teig sofort in den Kühlschrank verlagern.
 
 #### Vorratshaltung von aktivem Sauerteig
@@ -90,7 +90,7 @@ Beachte: je kühler alle Prozesse gehalten werden, desto weniger aktiv ist der S
 Er hält sich aber dadurch länger und wird trotzdem _nicht_ inaktiv.
 
 ## Herstellung des Vorteigs
-Dauer: 1 Tag (24 Stunden)
+Dauer: 1 Tag (24 Stunden)  
 Arbeitszeit: 10 Minuten
 
 Voraussetzung: es ist ein aktiver Sauerteig vorhanden.
@@ -110,7 +110,7 @@ an einem raumwarmen Ort 24 Stunden lang lagern.
 Hinweis: Zur Not kann auch ein großes Tuch als Abdeckung verwendet werden.
 
 ## Herstellung des Backteiges
-Dauer: ca. 2 - 2,5 Stunden
+Dauer: ca. 2 - 2,5 Stunden  
 Arbeitszeit: ca. 20 Minuten
 
 Voraussetzung: es ist ein Vorteig vorhanden.
@@ -130,14 +130,13 @@ Zutaten:
   * Kartoffelmehl
   * oder, oder, ...
 
-mit der Hand in der Schüssel verkneten,
+Zutaten in einer großen Schüssel verkneten,
 bis ein konsistenter,
-sehr klebriger Teig entstanden ist (ca. fünf Minuten).
-Teigreste können nach dem Kneten mit einem stumpfen Frühstücksmesser problemlos von der Hand entfernt werden.
+sehr klebriger Teig entstanden ist (ca. fünf Minuten Knetzeit).
 
 Zwei antihaftbeschichtete Brotbackformen leicht mit Pflanzenfett einstreichen.
 
-Den Teig symetrisch teilen und in die Kastenformen einfüllen.
+Den Teig symetrisch teilen (ca. 1400 Gramm pro Brot) und in die Kastenformen einfüllen.
 Zur besseren Handhabe des klebrigen und zähen Teiges,
 _die Hände mit lauwarmem Wasser gut feucht halten_.
 Als Finish den Teig in den Formen oben glatt streichen.
